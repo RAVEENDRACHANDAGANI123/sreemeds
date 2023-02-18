@@ -34,12 +34,28 @@ Patients have lot of problems regarding appointments, and meds where patients ha
 ****[https://youtu.be/HMUYVzGS65o](https://youtu.be/2LIm1u-fFr4)*****
 
 ## HOME
+![Screenshot (37)](https://user-images.githubusercontent.com/121965552/219843600-2f2bde16-b25f-4e67-8919-ab2effa53432.png)
 
 ## ABOUT
+![Screenshot (38)](https://user-images.githubusercontent.com/121965552/219843617-1f474878-d71d-4bad-942d-64ed01d88812.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/121965552/219843641-450b4bae-207d-4782-8ca7-bdd1eb419ecc.png)
 
-## EXPLORE
+## SERVICES
+![Screenshot (40)](https://user-images.githubusercontent.com/121965552/219843669-0e067368-568f-4fbd-95e6-1197fead9595.png)
 
+## GALLERY
+![Screenshot (41)](https://user-images.githubusercontent.com/121965552/219843687-ac5c9884-74c7-41e7-a094-eb09b8393042.png)
+
+## CONTACT
+![image](https://user-images.githubusercontent.com/121965552/219843734-eace4398-8fa5-4f7d-82f5-73b13faf8c6f.png)
+
+## AZURE HEALTH BOT
+![Screenshot (43)](https://user-images.githubusercontent.com/121965552/219843758-ef2ea574-9372-45f1-b045-f187efc6599b.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/121965552/219843764-021b835d-fe1d-43fd-93f7-47dd5a35d94b.png)
 
 ## AZURE SERVICES
+![Screenshot (45)](https://user-images.githubusercontent.com/121965552/219843830-72d8883b-4e14-4bef-9a30-bac374e857ce.png)
 
-## APP SERVICE
+## STORAGE ACCOUNTS
+![Screenshot (46)](https://user-images.githubusercontent.com/121965552/219843837-f1137235-facd-4e2f-bc7b-bbfba4f42b14.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/121965552/219843844-d8069b2c-620a-4ac9-b1a2-1e63a98969d5.png)
