@@ -2,7 +2,7 @@
 
 📌 This is the project created for Microsoft Future Ready Talent Virtual Internship Program on developing Azure Static Web Apps.
 
-🎯 Project Link :https://sreemeds1.azurewebsites.net
+🎯 Project Link :https://purple-sea-0660d5200.2.azurestaticapps.net
 
 🚩This is SREEMEDS A Front End website design
 
