@@ -1,4 +1,4 @@
-#                ✨ SREEMEDS ✨
+# ✨ SREEMEDS ✨
 
 📌 This is the project created for Microsoft Future Ready Talent Virtual Internship Program on developing Azure Static Web Apps.
 
