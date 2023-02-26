@@ -34,19 +34,20 @@ Patients have lot of problems regarding appointments, and meds where patients ha
 ****https://youtu.be/CNCe9Cxb-kI*****
 
 ## HOME
-![Screenshot (37)](![about us sreemeds3](https://user-images.githubusercontent.com/121965552/221413535-26be2a78-e999-4bbf-86fa-2c041fd475ac.png)
+![about us sreemeds3](https://user-images.githubusercontent.com/121965552/221413535-26be2a78-e999-4bbf-86fa-2c041fd475ac.png)
 
 ## ABOUT
-![Screenshot (38)]![Uploading aboutus.sreemeds.png…])
+![aboutus sreemeds](https://user-images.githubusercontent.com/121965552/221413857-006f021c-294b-4f47-9f5d-b44b9ed21712.png)
+
 
 
 ## SERVICES
-![Screenshot (40)]![our service sreemeds1](https://user-images.githubusercontent.com/121965552/221413661-346b1118-b982-473b-9aa7-d3954b79163e.png)
+![our service sreemeds1](https://user-images.githubusercontent.com/121965552/221413661-346b1118-b982-473b-9aa7-d3954b79163e.png)
 
 ## GALLERY
-![Screenshot (41)]![gallery sreemeds](https://user-images.githubusercontent.com/121965552/221413707-483f5596-212e-480c-981a-95aee4185f77.png)
+![gallery sreemeds](https://user-images.githubusercontent.com/121965552/221413707-483f5596-212e-480c-981a-95aee4185f77.png)
 ## CONTACT
-![image]![contact sreemeds1](https://user-images.githubusercontent.com/121965552/221413741-dc2cf773-8ac2-4c0f-9933-caeea9e7dcff.png)
+![contact sreemeds1](https://user-images.githubusercontent.com/121965552/221413741-dc2cf773-8ac2-4c0f-9933-caeea9e7dcff.png)
 
 ## AZURE HEALTH BOT
 ![Screenshot (43)](https://user-images.githubusercontent.com/121965552/219843758-ef2ea574-9372-45f1-b045-f187efc6599b.png)
