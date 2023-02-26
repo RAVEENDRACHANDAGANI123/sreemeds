@@ -32,7 +32,7 @@ Patients have lot of problems regarding appointments, and meds where patients ha
 ## Project video link
 
 ****https://youtu.be/CNCe9Cxb-kI*****
-****https://youtu.be/CNCe9Cxb-kI*****
+****https://youtu.be/JCXD_IbUqZM*****
 
 ## HOME
 ![home sreemeds1](https://user-images.githubusercontent.com/121965552/221413950-0c27a96e-19b0-4638-90bb-9d22db3c79e9.png)
